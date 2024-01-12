@@ -13,6 +13,8 @@ Lighting plays a crucial role, and for this scene, I utilized a basic lighting s
 
 ![text description](Images/STEP_1_lights.png)
 
+## Third Step
+
 ![text description](Images/STEP_2.png)
 
 ![text description](Images/STEP_4.png)
