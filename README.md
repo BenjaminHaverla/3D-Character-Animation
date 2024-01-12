@@ -35,5 +35,5 @@ As evident in the comparison, the left picture exhibits significant differences 
 
 ![text description](Images/STEP_7.png)
 
-
+# Results of My Animation:
 
