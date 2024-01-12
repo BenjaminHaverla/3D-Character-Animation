@@ -37,3 +37,6 @@ As evident in the comparison, the left picture exhibits significant differences 
 
 # Results of My Animation:
 
+https://github.com/BenjaminHaverla/3D-Character-Animation/assets/149423594/5984971f-09fa-461f-830f-758e93dcb1e3
+
+https://github.com/BenjaminHaverla/3D-Character-Animation/assets/149423594/981e3431-7514-4786-8d76-0263078f26cd
