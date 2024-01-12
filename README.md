@@ -3,9 +3,13 @@ This 3D animation marks my initial attempt. As a beginner in the field of 3D ani
 
 ## First Step
 
-I started by creating movement for my character. As it was my first attempt, I opted to use pre-rigged animated movements of the human body. After some research, I incorporated this animation into **`Blender 3D software`**.
+I started by creating movement for my character. As it was my first attempt, I opted to use pre-rigged animated movements of the human body. After some research, I incorporated this animation into **`Blender 3D software`**. Following that, I crafted the background scene and fashioned hair for my character using the particles section.
 
 ![text description](Images/STEP_1.png)
+
+## Second Step
+
+Lighting plays a crucial role, and for this scene, I utilized a basic lighting setup, as depicted in the picture.
 
 ![text description](Images/STEP_1_lights.png)
 
