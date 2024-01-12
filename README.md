@@ -3,7 +3,7 @@ This 3D animation marks my initial attempt. As a beginner in the field of 3D ani
 
 ## First Step
 
-The beginning part was to create some movement for my character. Because it was my first time, I decided to use some rigged animated movement of the human body. After searching I put this animation into Blender 3D software. `Social Norms:`
+I started by creating movement for my character. As it was my first attempt, I opted to use pre-rigged animated movements of the human body. After some research, I incorporated this animation into **`Blender 3D software`**.
 
 ![text description](Images/STEP_1.png)
 
