@@ -23,6 +23,8 @@ I incorporated camera movement to enhance the cinematic experience. Additionally
 
 ## Fourth Step
 
+Once the entire animation was complete, I added materials to my character. In simpler terms, I infused our character with vibrant colors to bring both them and their surroundings to life.
+
 ![text description](Images/STEP_5.png)
 
 ![text description](Images/STEP_6.png)
