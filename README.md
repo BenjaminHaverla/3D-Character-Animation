@@ -15,6 +15,8 @@ Lighting plays a crucial role, and for this scene, I utilized a basic lighting s
 
 ## Third Step
 
+I incorporated camera movement to enhance the cinematic experience. Additionally, I applied a **`Noise Function`** to the camera animation for a more realistic, fluid motion, avoiding a robotic feel.
+
 ![text description](Images/STEP_2.png)
 
 ![text description](Images/STEP_4.png)
